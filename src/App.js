@@ -5,13 +5,18 @@ import { useState } from "react";
 const bookDB = {
   javascript: [
     { name: "Eloquent JavaScript", rating: "4/5" },
-    { name: "You Don't Know JS", rating: "3.5/5" }
+    { name: "You Don't Know JS", rating: "3.5/5" },
+    { name: "JavaScript & JQuery", rating: "3.6/5" }
   ],
 
   fiction: [
     {
       name: "Shiva Trilogy",
       rating: "5/5"
+    },
+    {
+      name: "Pride and Prejudice",
+      rating: "6/5"
     },
     {
       name: "Harry Potter and the Sorcerer's Stone",
@@ -22,6 +27,10 @@ const bookDB = {
     {
       name: "Never Split the Difference",
       rating: "3.5/5"
+    },
+    {
+      name: "Fooled by Randomness",
+      rating: "4.3/5"
     },
     {
       name: "Loonshots",
