@@ -49,7 +49,7 @@ export default function App() {
       <h1> 📚 goodbooks </h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
-        Checkout my favorite books. Select a genre to get started{" "}
+        Reading is a Conversation All books talk but a good books Listen as well ,you know you have read a good book when you turn the last page and feel a little as if you have a lots of friends.That's the things about books.They let you travel without moving your feet.The more that you read, the more things you will know.It is a thing to start life with  a small number of really good books which are your  very own. Checkout my favorite books. Select a genre to get started{" "}
       </p>
 
       <div>
